@@ -1,1 +1,2 @@
-Ola Mundo! Esse projeto ensina você a usar o GIT.
+Olá Mundo! 
+Esse projeto foi feito nas aulas de GIT para treinar os comandos.
